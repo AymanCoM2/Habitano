@@ -1,0 +1,19 @@
+1-The Profile page for the User  ; 
+
+2- The polling Issue ??
+
+2-Website ScreenShot ?
+
+3-Validation Rules For Livewire ? 
+
+4-Searching page ? 
+
+5-Home Page ?
+
+6-The Active Site Feature ?? I mean Real Life  ; 
+
+5-Log in and Sigup Styling ? 
+
+6--APIs and AI for this 
+
+7-About / Contact / Terms Of service / ...etc
